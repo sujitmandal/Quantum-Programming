@@ -36,7 +36,6 @@ How to install | Python | | Anaconda | | Opencv library |
 • pip install qiskit
 
 • pip install jupyter notebook
-
 ```
 ## License:
 MIT Licensed
