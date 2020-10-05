@@ -29,7 +29,7 @@ plt.show()
 circuit.measure(qr, cr)
 circuit.draw(output='mpl')
 plt.show()
-IBMQ.save_account('32e0c0acdb3187227dcd89986fa9c7845c0c5070c6052c92aad5543e837a81ea01334f3bbd9fe7fa724a06326e7dc05008d74798dbba79068a9f1d7635f2d02b')
+IBMQ.save_account('') #ibm kye
 IBMQ.load_account()
 
 provider = IBMQ.get_provider('ibm-q')
